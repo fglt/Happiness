@@ -35,8 +35,5 @@ class HappinessViewController: UIViewController, FaceViewDataSource{
         
         return  Double(happiness-50)/50
     }
-    
-    
-    
 
 }
